@@ -6,8 +6,6 @@ import { ChangeEvent, FormEvent, useEffect, useRef } from "react"
 import { toast } from "react-hot-toast"
 import { useLocation, useNavigate } from "react-router-dom"
 import { v4 as uuidv4 } from "uuid"
-import logo from "@/assets/logo.svg"
-import logo1 from "@/assets/Codefusionimg.jpg"
 import logo2 from "@/assets/img1.jpg"
 
 const FormComponent = () => {
